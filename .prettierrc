@@ -1,0 +1,12 @@
+{
+     "singleQuote": true,
+     "trailingComma": "es5",
+     "tabWidth": 5,
+     "semi": true,
+     "bracketSpacing": true,
+     "jsxBracketSameLine": true,
+     "parserOptions": {
+          "ecmaVersion": 11,
+          "sourceType": "module"
+     }
+}

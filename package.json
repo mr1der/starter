@@ -1,0 +1,41 @@
+{
+     "name": "parcel_project",
+     "version": "1.0.0",
+     "description": "#1 Project w/ Parcel.JS",
+     "main": "index.js",
+     "scripts": {
+          "dev": "parcel src/index.html",
+          "prod": "parcel build src/index.html"
+     },
+     "repository": {
+          "type": "git",
+          "url": "github.com/mr1der/parcel_project"
+     },
+     "keywords": [
+          "parcel",
+          "project"
+     ],
+     "author": "mr1der",
+     "license": "MIT",
+     "devDependencies": {
+          "@typescript-eslint/eslint-plugin": "^2.33.0",
+          "@typescript-eslint/parser": "^2.33.0",
+          "eslint": "^6.8.0",
+          "eslint-config-airbnb": "^18.1.0",
+          "eslint-config-node": "^4.0.0",
+          "eslint-config-prettier": "^6.11.0",
+          "eslint-plugin-import": "^2.20.1",
+          "eslint-plugin-jsx-a11y": "^6.2.3",
+          "eslint-plugin-node": "^11.1.0",
+          "eslint-plugin-prettier": "^3.1.3",
+          "eslint-plugin-react": "^7.20.0",
+          "eslint-plugin-react-hooks": "^2.5.0",
+          "parcel-bundler": "^1.12.4",
+          "prettier": "^1.19.1",
+          "sass": "^1.26.5"
+     },
+     "dependencies": {
+          "react": "^16.13.1",
+          "react-dom": "^16.13.1"
+     }
+}

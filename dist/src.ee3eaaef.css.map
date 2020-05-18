@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles\\main.scss"],"names":[],"mappings":"AAEA,KACI,kBAHE,CAIF","file":"src.ee3eaaef.css","sourceRoot":"..\\src","sourcesContent":["$sup: firebrick;\r\n\r\nbody {\r\n    background: $sup;\r\n    height: 200vh;\r\n}"]}
